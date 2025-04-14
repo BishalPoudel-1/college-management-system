@@ -8,6 +8,18 @@ It includes features like user authentication, dashboards for different user rol
 
 ---
 
+## Screenshot 
+
+# Login Page
+![Login page](https://github.com/user-attachments/assets/ba3acf1d-912e-4a8b-904b-eefd1116c8c9)
+
+# Admin Page
+![admin](https://github.com/user-attachments/assets/3f35f643-b764-4c75-ac3f-995d059709e2)
+
+# Student Page
+![Student](https://github.com/user-attachments/assets/e410be22-4866-4670-933b-e5bc70b4683d)
+
+
 ## 🚀 Key Features
 
 - 🔐 **Login and Authentication System**
